@@ -1,4 +1,4 @@
-#Olá, me chamo Pedro Grigolo
+# Olá, me chamo Pedro Grigolo
 ## Bem vindo ao meu perfil do GitHub
 
 - :mortar_board: Sou estudante de Engenharia de Software e Tecnólogo em Processos Gerenciais.
